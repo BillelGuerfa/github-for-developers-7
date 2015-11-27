@@ -2,3 +2,4 @@
   - Algiers
   - Pizza
   - Video Games
+  - Fav Color : blue
